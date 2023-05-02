@@ -35,3 +35,7 @@
 #TabsToolbar #firefox-view-button[open] > .toolbarbutton-icon, #tabbrowser-tabs:not([noshadowfortests]) .tab-background:is([selected], [multiselected]) {
   border: solid #313244 1px;
 }
+
+#urlbar-background {
+  background-color: #252539 !important;
+}
